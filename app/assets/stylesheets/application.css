@@ -13,3 +13,36 @@
  *= require_tree .
  *= require_self
  */
+
+.kkk {
+  margin-top: 20px;
+}
+
+.container {
+  font-size: 24px;
+  text-align: center;
+  width: 400px;
+  background-color: white;
+}
+
+.ask-btn {
+  text-decoration: none;
+  background-color: #64A6BD;
+}
+
+.link {
+  font-size: 16px;
+}
+
+.custom-file {
+  margin: 20px;
+}
+
+.custom-file-label {
+  width: 340px;
+}
+
+.custom-file-input {
+ margin-left: -6px;
+ background-color: #64A6BD;
+}
